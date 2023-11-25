@@ -3,7 +3,7 @@ The ANNs can classifiy handwritten digits after being trained.The user can suppl
 There are four programs in total
 
 ***************************************************************************************************************************
-How to run programs
+# How to run programs
 ***************************************************************************************************************************
 1. Build virtual environment by typing make in terminal
 
@@ -24,5 +24,5 @@ program Classifier_3
  - after ANN training is complete, enter path to image file to be classified
 
 program Classifier_4.py
- - type make run4 to run (and train) the program
- - after ANN training is complete, enter path to image file to be classified
+ * type make run4 to run (and train) the program
+ * after ANN training is complete, enter path to image file to be classified
